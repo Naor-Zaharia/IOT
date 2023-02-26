@@ -1,1 +1,1 @@
-# IOT
+A few IOT projects that use different abilities of the Arduino board
